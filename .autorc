@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "princejerry92",
+  "repo": "container-teachtw",
+  "name": "princejerry92",
+  "email": "princejerrypounds@gmail.com",
+}
